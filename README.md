@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Avaneesh ツ
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning Square Roots
-- 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me my email: avaneeshmakesh@gmail.com
 
 <!---
